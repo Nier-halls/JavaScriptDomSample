@@ -1,0 +1,18 @@
+#imageGallery {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#imageGallery li{
+	margin-left: 20px
+}
+
+#imageGallery #item2{
+	margin-left: 4 0px
+}
+
+.thumbnail{
+	width: 100px;
+}
